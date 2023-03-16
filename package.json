@@ -1,9 +1,9 @@
 {
-  "name": "raganork-md",
+  "name": "naeem bot",
   "version": "3.0.5",
   "description": "Raganork whatsapp bot- Multi device version.",
   "scripts": {
-    "start": "pm2 start . --attach --name Raganork"
+    "start": "pm2 start . --attach --name naeem"
   },
   "repository": {
     "type": "git",
